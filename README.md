@@ -1,8 +1,15 @@
+README
+===========================
+![Apache POI](http://poi.apache.org/resources/images/asf_logo.png "Apache POI")<br>
+(http://poi.apache.org/)  
+
 1、什么是Apache POI?
+---
 
 	Apache POI是一种流行的API，允许程序员使用Java程序创建，修改和显示MS-Office文件。
 
 2、Apache POI的组件
+---
 	
 	Apache POI包含用于处理MS-Office的所有OLE2复合文档的类和方法。
 	
