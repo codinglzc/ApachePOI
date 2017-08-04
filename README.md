@@ -30,3 +30,8 @@ README
 	(8)HPBF：用于读取和写入MS-Publisher文件。
 	
 注意：较旧版本的POI支持doc，xls，ppt等二进制文件格式。版本3.5以上，POI支持MS-Office的OOXML文件格式，如docx，xl​​sx，pptx等。
+
+3、src
+---
+	PPT、EXCEL 和 WORD。
+	
